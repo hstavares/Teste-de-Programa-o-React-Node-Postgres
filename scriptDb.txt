@@ -1,0 +1,16 @@
+--Criando a database
+CREATE DATABASE facilita_juridico;
+
+--Criando Tabela
+CREATE TABLE "Clientes" (
+    "Id" TEXT PRIMARY KEY,
+    "Nome" TEXT,
+    "Email" TEXT,
+    "Telefone" TEXT,
+    "CoordX" NUMERIC,
+    "CoordY" NUMERIC
+);
+
+--Inserir um registro padrao (opcional)
+INSERT INTO public."Clientes" ("Id", "Nome", "Email", "Telefone", "CoordX", "CoordY") VALUES
+    ('id1', 'Cliente1', 'cliente1@email.com', '123-456-7890', 10, 8);
