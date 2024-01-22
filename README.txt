@@ -1,7 +1,7 @@
 PASSO A PASSO PARA RODAR A APLICAÇÃO:
 
 //PASSO 1 - CRIANDO BANCO DE DADOS
-1- abra o arquivo .env dentro da pasta api e altere, se necessário, as credenciais do seu usuario do banco
+1- abra o arquivo .env dentro da pasta api e ALTERE as credenciais do seu usuario do banco
 
 2- abra o arquivo scriptDb e rode os comandos para criar o database e a tabela do projeto
 
