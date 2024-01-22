@@ -46,7 +46,7 @@ export default function Clientes() {
               <th className="py-2 px-4">Nome</th>
               <th className="py-2 px-4">Email</th>
               <th className="py-2 px-4">Telefone</th>
-              <th className="py-2 px-4">Ação</th>
+              {/* <th className="py-2 px-4">Ação</th> */}
             </tr>
           </thead>
           <tbody>
@@ -55,11 +55,11 @@ export default function Clientes() {
                 <td className="py-2 px-4">{Nome}</td>
                 <td className="py-2 px-4">{Email}</td>
                 <td className="py-2 px-4">{Telefone}</td>
-                <td className="py-2 px-4">
+                {/* <td className="py-2 px-4">
                   <button className="bg-red-500 text-white py-2 px-4 rounded">
                     Excluir
                   </button>
-                </td>
+                </td> */}
               </tr>
             ))}
           </tbody>

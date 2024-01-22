@@ -5,7 +5,7 @@ PASSO A PASSO PARA RODAR A APLICAÇÃO:
 
 2- abra o arquivo scriptDb e rode os comandos para criar o database e a tabela do projeto
 
-//PASSO 2 - BACKEND
+//PASSO 2 - BACKEND NODE v18.17.0
 
 1- abra a pasta api em seu VSCode ou editor da sua preferência
 
@@ -13,7 +13,7 @@ PASSO A PASSO PARA RODAR A APLICAÇÃO:
 
 3- digite o comando "npm start" para rodar o backend
 
-//PASSO 3 - FRONTEND
+//PASSO 3 - FRONTEND React/next.js v14.1.0
 
 1- abra a pasta front em seu VSCode ou editor da sua preferência
 
